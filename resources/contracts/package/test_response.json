@@ -1,0 +1,10 @@
+{
+"id": "Course3",
+"name": "Spring Boot",
+"description": "6K Students",
+"steps": [
+"Learn Maven",
+"Learn Spring",
+"Second Example"
+]
+}

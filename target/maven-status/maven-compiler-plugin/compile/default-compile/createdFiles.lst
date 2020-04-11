@@ -1,0 +1,13 @@
+com\ikea\tc\todo\endpoints\HealthEndpoint.class
+com\ikea\tc\todo\model\Todo.class
+com\ikea\tc\todo\endpoints\TodoEndpoint.class
+com\ikea\tc\todo\endpoints\CORSConfiguration.class
+com\ikea\tc\todo\manager\TodoManager.class
+com\ikea\tc\todo\TodoApplication.class
+com\ikea\tc\todo\init\Initalizer.class
+com\ikea\tc\todo\manager\TodoNotFoundException.class
+com\ikea\tc\todo\endpoints\CORSConfiguration$1.class
+com\ikea\tc\todo\endpoints\InvalidTodoException.class
+com\ikea\tc\todo\manager\TodoManagerImpl.class
+com\ikea\tc\todo\repository\TodoRepository.class
+com\ikea\tc\todo\swagger\SwaggerConfig.class

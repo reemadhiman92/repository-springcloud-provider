@@ -1,0 +1,12 @@
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\endpoints\InvalidTodoException.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\manager\TodoNotFoundException.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\endpoints\CORSConfiguration.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\model\Todo.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\repository\TodoRepository.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\init\Initalizer.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\TodoApplication.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\endpoints\HealthEndpoint.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\endpoints\TodoEndpoint.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\swagger\SwaggerConfig.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\manager\TodoManager.java
+C:\reference pipeline\ref-todo-backend-master\ref-todo-backend-master\src\main\java\com\ikea\tc\todo\manager\TodoManagerImpl.java
