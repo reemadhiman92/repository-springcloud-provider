@@ -1,0 +1,16 @@
+{
+  "id" : "dda8291b-fa53-49d9-a30a-175799e2d3ef",
+  "request" : {
+    "url" : "/api/todos/1",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":1,\"task\":\"Pay bills.\",\"done\":false}",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "dda8291b-fa53-49d9-a30a-175799e2d3ef"
+}
